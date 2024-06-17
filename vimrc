@@ -155,8 +155,8 @@ nnoremap tl <C-]>
 nnoremap th <C-t>
 nnoremap cL c$
 nnoremap cH c^
-nnoremap dL c$
-nnoremap dH c^
+nnoremap dL d$
+nnoremap dH d^
 nnoremap gh gT
 nnoremap gl gt
 nnoremap zj zt
